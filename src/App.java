@@ -6,7 +6,6 @@ public class App {
         System.out.println("¿Como te llamas? ");
         String nombre = sc.nextLine();
         System.out.println("Encantado de conocerte " + nombre);
-
         sc.close();
     }
 }
