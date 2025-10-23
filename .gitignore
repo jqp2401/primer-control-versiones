@@ -4,7 +4,6 @@ README.md
 /tonterias
 /manuales/*.pdf
 !01-git.png
-!github-git-cheat-sheet.pdf
 
 # Compiled class file
 *.class
