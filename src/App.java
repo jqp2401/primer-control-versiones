@@ -1,3 +1,9 @@
+//DOCUMENTAR
+/*
+ * @author JuaQP
+ * @version v0.5
+ */
+
 import java.util.Scanner;
 
 public class App {
@@ -7,5 +13,7 @@ public class App {
         String nombre = sc.nextLine();
         System.out.println("Encantado de conocerte " + nombre);
         sc.close();
+
+        
     }
 }
